@@ -1,0 +1,5 @@
+﻿  treeChangeUnitTest.cpp
+C:\Users\user\source\repos\KNPO_6\treeChangeUnitTest\treeChangeUnitTest.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\user\source\repos\KNPO_6\treeChangeUnitTest\treeChangeUnitTest.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\user\source\repos\KNPO_6\treeChangeUnitTest\treeChangeUnitTest.cpp(2): message : использование предварительно скомпилированного заголовка
+  treeChangeUnitTest.vcxproj -> C:\Users\user\source\repos\KNPO_6\Debug\treeChangeUnitTest.dll
