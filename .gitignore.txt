@@ -1,0 +1,5 @@
+*.vcxproj
+*.pdb
+*.idb
+*.tlof
+*.log
