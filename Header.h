@@ -4,9 +4,9 @@
 using namespace std;
 struct Accoplishment
 {
-	int firstOperandStringsCount; //количество строк в первом операнде
-	int secondOperandStringsCount;//количество строк в втором операнде
-	int stringsCount;//общее количество строк в записи дерева  
+	unsigned short int firstOperandStringsCount; //количество строк в первом операнде
+	unsigned short int secondOperandStringsCount;//количество строк в втором операнде
+	unsigned short int stringsCount;//общее количество строк в записи дерева  
 	char operandOne[10][10];//массив строк, содержащий первый операнд
 	char operandTwo[10][10];//массив строк, содержащий второй операнд
 	char operation[2];//строка содержащая операцию сравнения для выражений
